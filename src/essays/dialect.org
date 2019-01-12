@@ -1,0 +1,3 @@
+* Dialects in Denshi
+The standard practice is to accelerate subsets of ABCD; these are
+called "dialects".
