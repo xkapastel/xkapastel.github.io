@@ -1,8 +1,8 @@
 #+TITLE:
 
 * Hi, I'm Matt
-I'm passionate about free software, programming languages and machine
-learning.
+I'm a software developer in Brooklyn, New York. I'm passionate about
+free software, programming languages and machine learning.
 
 I'm working on [[https://github.com/xkapastel/magic-word][Magic Word]], an open source tool for web automation,
 multimedia creation, and more.
