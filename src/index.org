@@ -2,9 +2,10 @@
 
 * Hi, I'm Matt
 I'm a software developer in Brooklyn, New York. I'm passionate about
-free software, programming languages and machine learning.
+free software, programming languages and artificial intelligence.
 
-I'm working on [[https://github.com/xkapastel/magic-word][Magic Word]], an open source tool for web automation,
-multimedia creation, and more.
+I'm working on [[https://github.com/xkapastel/supercombinator][SuperCombinator]], an environment for multimedia
+synthesis. It lets you create things like sounds, 3D models and
+chatbots, using functional programming.
 
 [[https://github.com/xkapastel][GitHub]] - [[https://liberapay.com/xkapastel][Liberapay]] - [[https://ko-fi.com/xkapastel][Ko-Fi]]
