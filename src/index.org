@@ -4,8 +4,7 @@
 I'm a software developer in Brooklyn, New York. I'm passionate about
 free software, programming languages and artificial intelligence.
 
-I'm working on [[https://github.com/xkapastel/supercombinator][SuperCombinator]], an environment for multimedia
-synthesis. It lets you create things like sounds, 3D models and
-chatbots, using functional programming.
+I'm working on [[https://github.com/xkapastel/unitype][Unitype]], a web application that combines wiki and
+[[https://en.wikipedia.org/wiki/Notebook_interface][notebook]] concepts.
 
-[[https://github.com/xkapastel][GitHub]] - [[https://liberapay.com/xkapastel][Liberapay]] - [[https://ko-fi.com/xkapastel][Ko-Fi]]
+You can also find me on [[https://github.com/xkapastel][GitHub]].
